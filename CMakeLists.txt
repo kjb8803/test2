@@ -1,1 +1,5 @@
-ADD_EXECUTABLE(test2.out test.cpp)
+cmake_minimum_required (VERSION 2.8) 
+
+project (Test)
+
+ADD_EXECUTABLE (test2 test.cpp)
