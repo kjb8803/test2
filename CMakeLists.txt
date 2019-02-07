@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 2.8) 
 
-SET(CMAKE_C_COMPILER C:/mingw-w64/MinGW/bin/gcc.exe)
+#SET(CMAKE_C_COMPILER C:/mingw-w64/MinGW/bin/gcc.exe)
 SET(CMAKE_CXX_COMPILER C:/mingw-w64/MinGW/bin/g++.exe)
 
 project (Test)
